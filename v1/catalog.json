@@ -1,0 +1,26 @@
+{
+  "catalogVersion": 1,
+  "lastUpdated": "2026-10-28",
+  "openings": [
+    {
+      "id": "english_opening",
+      "title": "English Opening",
+      "description": "A hypermodern opening controlling d5 from the flank without committing central pawns.",
+      "ecoCode": "A10-A39",
+      "playerColor": "WHITE",
+      "version": 1,
+      "isCore": true,
+      "downloadUrl": "https://raw.githubusercontent.com/henerator/chesslines-data/main/v1/openings/english_opening.json"
+    },
+    {
+      "id": "kings_indian_defense",
+      "title": "King's Indian Defense",
+      "description": "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center.",
+      "ecoCode": "E60-E99",
+      "playerColor": "BLACK",
+      "version": 1,
+      "isCore": true,
+      "downloadUrl": "https://raw.githubusercontent.com/henerator/chesslines-data/main/v1/openings/kings_indian_defense.json"
+    }
+  ]
+}
