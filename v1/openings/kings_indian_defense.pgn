@@ -1,0 +1,103 @@
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Classical System - Mar-del-Plata Line"]
+[VariationDescription "White develops Nf3 and Be2, castles short, closes the center with 8. d5, and attacks on the queenside while Black counterattacks on the kingside."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Nf3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be2 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. O-O Nc6 {Sämisch counterplay: Places pressure on d4 and prepares ...a6 and ...Rb8 queenside expansion.} 8. d5 Ne7 {Mar-del-Plata: Reroutes the knight to e7 to clear the f-pawn for the f7-f5-f4 kingside pawn storm.} 9. Ne1 Nd7 {Reroutes the knight to support f7-f5 and clear the way for kingside action.} 10. Nd3 f5 {Launches the iconic King's Indian kingside pawn storm.} 11. f3 f4 {Locks White's kingside pawns, clearing the way for ...g5-g4 pawn storm.} 12. Bd2 g5 {Continues the kingside pawn storm against White's king.} 13. c5 Ng6 {Brings the knight to g6 to reinforce the f4/h4 attacks against White's king.} *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Sämisch System"]
+[VariationDescription "White plays 5. f3 to solidify e4 and prepare Be3/Qd2, leading to sharp tactical play with kingside pawn storms."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. f3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be3 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. d5 Nh5 {Sämisch tactical line: Prepares ...Qh4+ check and exploits weaknesses on the light squares.} 8. Qd2 Qh4+ {Launches an aggressive queen check, forcing weaknesses in White's kingside pawn structure.} 9. g3 Nxg3 {Sacrifices knight on g3 to disrupt White's queen and king alignment.} 10. Qf2 Nxf1 {Takes White's light-squared bishop, ruining White's castling rights.} 11. Qxh4 Nxe3 {Captures White's dark-squared bishop with check threats.} 12. Kf2 Nxc4 {Picks up the c4 pawn with dynamic piece counterplay.} *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Sämisch System - Queenside Counter"]
+[VariationDescription "Black develops ...Nc6, ...a6, and ...Rb8 aiming for a fast ...b5 expansion against White's queenside castle setup."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. f3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be3 Nc6 {Sämisch counterplay: Places pressure on d4 and prepares ...a6 and ...Rb8 queenside expansion.} 7. Nge2 a6 {Prepares ...b5 expansion on the queenside.} 8. Qd2 Rb8 {Supports the b7-b5 pawn push on the queenside.} 9. h4 b5 {Executes the planned b7-b5 queenside pawn break.} 10. h5 e5 {Black plays e5, maintaining dynamic counterplay in the King's Indian structure.} 11. d5 Na5 {Fianchetto System: Targets White's c4 pawn and prepares queenside counterplay.} *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Averbakh System"]
+[VariationDescription "White pins Black's knight with 6. Bg5 before Black can execute ...e5, restraining Black's central breaks."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Be2 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Bg5 c5 {Challenges White's central d4 pawn from the flank, aiming for dynamic counterplay.} 7. d5 e6 {Undermines White's d5 pawn wedge, seeking to open the e-file.} 8. Nf3 exd5 {Opens the e-file and challenges White's pawn center.} 9. cxd5 h6 {Black plays h6, maintaining dynamic counterplay in the King's Indian structure.} 10. Bf4 Re8 {Places the rook on the open e-file, pressuring White's e4 pawn.} 11. Nd2 Na6 {Develops the knight towards c5.} 12. O-O *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Averbakh System - Positional Clamp"]
+[VariationDescription "White clamps the kingside with h4-h5 and g4, creating an outpost on f5 and dominating the closed pawn structure."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Be2 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Bg5 h6 {Prophylactic move preventing White's bishop from staying comfortably on g5.} 7. Be3 e5 {Black plays e5, maintaining dynamic counterplay in the King's Indian structure.} 8. d5 c6 {Black plays c6, maintaining dynamic counterplay in the King's Indian structure.} 9. h4 cxd5 {Black plays cxd5, maintaining dynamic counterplay in the King's Indian structure.} 10. cxd5 Nbd7 {Black plays Nbd7, maintaining dynamic counterplay in the King's Indian structure.} 11. h5 g5 {Continues the kingside pawn storm against White's king.} 12. f3 a6 {Prepares ...b5 expansion on the queenside.} 13. g4 b5 {Executes the planned b7-b5 queenside pawn break.} 14. a4 b4 {Black plays b4, maintaining dynamic counterplay in the King's Indian structure.} 15. Nb1 a5 {Black plays a5, maintaining dynamic counterplay in the King's Indian structure.} 16. Nd2 Nc5 {Black plays Nc5, maintaining dynamic counterplay in the King's Indian structure.} 17. Bxc5 dxc5 {Black plays dxc5, maintaining dynamic counterplay in the King's Indian structure.} 18. Bb5 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Four Pawns Attack"]
+[VariationDescription "White aggressive setup with 5. f4 building a massive central pawn wall across the 4th rank."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. f4 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Nf3 c5 {Challenges White's central d4 pawn from the flank, aiming for dynamic counterplay.} 7. d5 e6 {Undermines White's d5 pawn wedge, seeking to open the e-file.} 8. Be2 exd5 {Opens the e-file and challenges White's pawn center.} 9. cxd5 Re8 {Places the rook on the open e-file, pressuring White's e4 pawn.} 10. e5 dxe5 {Recaptures in the center, maintaining piece activity.} 11. fxe5 Ng4 {Black plays Ng4, maintaining dynamic counterplay in the King's Indian structure.} 12. e6 fxe6 {Opens lines for Black's rooks.} 13. d6 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Makogonov System"]
+[VariationDescription "White plays a prophylactic 5. h3 to prevent Black's piece probes on g4 before expanding in the center or kingside."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. h3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Nf3 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. d5 Na6 {Develops the knight towards c5.} 8. Be3 Nc5 {Black plays Nc5, maintaining dynamic counterplay in the King's Indian structure.} 9. Nd2 a5 {Black plays a5, maintaining dynamic counterplay in the King's Indian structure.} 10. Be2 b6 {Black plays b6, maintaining dynamic counterplay in the King's Indian structure.} 11. g4 Ne8 {Black plays Ne8, maintaining dynamic counterplay in the King's Indian structure.} 12. h4 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Fianchetto System - Modern Line"]
+[VariationDescription "White fianchettos the light-squared bishop on g2 to neutralize Black's King's Indian bishop and secure positional control."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. g3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 5. Bg2 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 6. Nf3 Nc6 {Sämisch counterplay: Places pressure on d4 and prepares ...a6 and ...Rb8 queenside expansion.} 7. O-O a6 {Prepares ...b5 expansion on the queenside.} 8. d5 Na5 {Fianchetto System: Targets White's c4 pawn and prepares queenside counterplay.} 9. Nd2 c5 {Establishes a queenside pawn structure while attacking c4.} 10. Qc2 Rb8 {Supports the b7-b5 pawn push on the queenside.} 11. b3 b5 {Executes the planned b7-b5 queenside pawn break.} 12. Bb2 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Fianchetto System - Yugoslav Line"]
+[VariationDescription "Black strikes immediately with 6...c5, challenging White's d4 pawn in the Fianchetto System."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. g3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 5. Bg2 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 6. Nf3 c5 {Challenges White's central d4 pawn from the flank, aiming for dynamic counterplay.} 7. O-O Nc6 {Sämisch counterplay: Places pressure on d4 and prepares ...a6 and ...Rb8 queenside expansion.} 8. d5 Na5 {Fianchetto System: Targets White's c4 pawn and prepares queenside counterplay.} 9. Nd2 a6 {Prepares ...b5 expansion on the queenside.} 10. Qc2 Rb8 {Supports the b7-b5 pawn push on the queenside.} 11. b3 b5 {Executes the planned b7-b5 queenside pawn break.} 12. Bb2 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Exchange Variation"]
+[VariationDescription "White exchanges queens early with 7. dxe5 dxe5 8. Qxd8, dampening Black's tactical counterplay into a favorable endgame."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Nf3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be2 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. dxe5 dxe5 {Recaptures in the center, maintaining piece activity.} 8. Qxd8 Rxd8 {Black plays Rxd8, maintaining dynamic counterplay in the King's Indian structure.} 9. Bg5 Re8 {Places the rook on the open e-file, pressuring White's e4 pawn.} 10. Nd5 Nxd5 {Black plays Nxd5, maintaining dynamic counterplay in the King's Indian structure.} 11. cxd5 c6 {Black plays c6, maintaining dynamic counterplay in the King's Indian structure.} 12. Bc4 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Gligoric Variation"]
+[VariationDescription "White plays 7. Be3, maintaining flexibilty in the center before deciding whether to push d5 or maintain central tension."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Nf3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be2 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. Be3 Ng4 {Black plays Ng4, maintaining dynamic counterplay in the King's Indian structure.} 8. Bg5 f6 {Black plays f6, maintaining dynamic counterplay in the King's Indian structure.} 9. Bh4 g5 {Continues the kingside pawn storm against White's king.} 10. Bg3 Nh6 {Black plays Nh6, maintaining dynamic counterplay in the King's Indian structure.} 11. d5 Nd7 {Reroutes the knight to support f7-f5 and clear the way for kingside action.} 12. Nd2 *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Petrosian System"]
+[VariationDescription "Tigran Petrosian's system with 7. d5, closing the center immediately and maneuvering flexibly on both flanks."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Nf3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Be2 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. d5 a5 {Black plays a5, maintaining dynamic counterplay in the King's Indian structure.} 8. Bg5 h6 {Black plays h6, maintaining dynamic counterplay in the King's Indian structure.} 9. Bh4 Na6 {Develops the knight towards c5.} 10. Nd2 Qe8 {Black plays Qe8, maintaining dynamic counterplay in the King's Indian structure.} 11. O-O Nh7 {Black plays Nh7, maintaining dynamic counterplay in the King's Indian structure.} 12. a3 Bd7 {Black plays Bd7, maintaining dynamic counterplay in the King's Indian structure.} *
+
+[Title "King's Indian Defense"]
+[Description "A popular semi-closed opening played by Black, building a dynamic kingside counterattack against White's pawn center."]
+[PlayerColor "BLACK"]
+[VariationTitle "Kazakh System (5. Bd3)"]
+[VariationDescription "White develops the bishop to d3 and knight to e2, maintaining a solid, flexible pawn structure."]
+
+1. d4 Nf6 {Develops the knight to control d5 and e4, delaying central pawn commitments in hypermodern fashion.} 2. c4 g6 {Prepares to fianchetto the dark-squared bishop on g7 to control the long a1-h8 diagonal.} 3. Nc3 Bg7 {Places the King's Indian bishop on its key diagonal, guarding the king and pressuring the center.} 4. e4 d6 {Prevents White's e4-e5 push and prepares ...e5 or ...c5 counterstrikes.} 5. Bd3 O-O {Castles the king into safety behind the g7-fianchettoed bishop.} 6. Nge2 e5 {Mar-del-Plata/Classical: Strikes directly at White's central d4 pawn to open lines.} 7. d5 Na6 {Develops the knight towards c5.} 8. O-O Nc5 {Black plays Nc5, maintaining dynamic counterplay in the King's Indian structure.} 9. Bc2 a5 {Black plays a5, maintaining dynamic counterplay in the King's Indian structure.} 10. f3 Nh5 {Sämisch tactical line: Prepares ...Qh4+ check and exploits weaknesses on the light squares.} 11. Be3 f5 {Launches the iconic King's Indian kingside pawn storm.} *
